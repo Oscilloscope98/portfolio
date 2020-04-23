@@ -1,2 +1,4 @@
-# portfolio
-Repo for my online portfolio
+# Yuwen Hu's online portfolio
+
+## Version 1
+Based on online template
