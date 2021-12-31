@@ -1,4 +1,5 @@
-# Yuwen Hu's online portfolio
+## Yuwen Hu's online portfolio
 
-## Version 1
-Based on online template
+This version is based on an online template, which is planned to be updated to a new version.
+
+>The current portfolio can be visited [here](https://oscilloscope98.github.io/portfolio/).
